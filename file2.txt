@@ -1,1 +1,1 @@
-CSCI 333
+Software Engineering CSCI 333
